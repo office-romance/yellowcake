@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: superpotent
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
@@ -9,9 +9,9 @@ meta:
   title: The Ultimate Gatsby Starter
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+superpotent is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+View the [project overview](https://thriveweb.com.au/the-lab/superpotent-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/superpotent/blob/master/README.md).
 
 # Features
 
@@ -27,4 +27,4 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/superpotent&stack=cms)
